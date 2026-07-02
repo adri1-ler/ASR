@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+/* Navigation Styles */
+/* Legacy scaffold styles intentionally left empty. The dashboard and app shell
+   now live in index.css so the generated entity pages and new landing page share
+   one visual system. */
